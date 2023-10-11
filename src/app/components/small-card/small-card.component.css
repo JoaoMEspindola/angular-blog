@@ -1,0 +1,29 @@
+.container__small-card {
+  border: white 2px;
+  width: 600px;
+  display: flex;
+  flex-direction: row;
+}
+
+.small-card__picture>img {
+  width: 100%;
+  min-width: 200px;
+}
+
+.small-card__date>h2 {
+  margin-left: 20px;
+  font-size: 11px;
+  color: #3b3b3b;
+}
+
+.small-card__headline>p {
+  margin-left: 20px;
+  text-align: justify;
+  justify-content: center;
+}
+
+hr {
+  border-color: #3b3b3b;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
