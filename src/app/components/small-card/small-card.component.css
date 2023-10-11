@@ -13,7 +13,7 @@
 .small-card__date>h2 {
   margin-left: 20px;
   font-size: 11px;
-  color: #3b3b3b;
+  color: #696969;
 }
 
 .small-card__headline>p {
@@ -23,7 +23,7 @@
 }
 
 hr {
-  border-color: #3b3b3b;
+  border-color: #696969;
   margin-top: 10px;
   margin-bottom: 10px;
 }
