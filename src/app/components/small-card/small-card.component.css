@@ -1,13 +1,13 @@
 .container__small-card {
   border: white 2px;
-  width: 600px;
+  width: 400px;
   display: flex;
   flex-direction: row;
 }
 
 .small-card__picture>img {
-  width: 100%;
-  min-width: 200px;
+  width: 180px;
+  height: 108px;
 }
 
 .small-card__date>h2 {
